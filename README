@@ -1,3 +1,10 @@
+开发环境配置：
+本项目基于Sphinx文档系统构建，请使用以下命令安装Sphinx:
+sudo easy_install -U Sphinx
+注：简单使用请参见：http://qixinglu.com/archives/note_tools_restructuredtext_sphinx
+
+在根目录执行make html即可生成html版的文档，详情请参见make的帮助文档。
+
 TODO:
 - 创建v8-reference项目工程，便于文档整理及分享（已完成）
 - 简单学习使用sphinx文档系统
