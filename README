@@ -2,7 +2,7 @@ TODO:
 - 创建v8-reference项目工程，便于文档整理及分享（已完成）
 - 简单学习使用sphinx文档系统
 - 基于sphinx搭建项目文档架构
-- 收集v8相关的所有资料（如：EMCA-script规范、node.js类的使用案例、v8编码风格（google c++ coding standard)，v8-docs、video, ppt等）供后期学习时参考
+- 收集v8相关的所有资料（如：ECMA-262规范、node.js类的使用案例、v8编码风格（google c++ coding standard)，v8-docs、video, ppt等）供后期学习时参考
 - 翻译v8官方文档
 - v8内部原理概要
 - 主要数据结构和算法与js的对应
